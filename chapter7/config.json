@@ -1,0 +1,5 @@
+[
+  {"include": "startup1.json"},
+  {"include": "startupGet.json"},
+  {"include": "startupWithCookies.json"}
+]

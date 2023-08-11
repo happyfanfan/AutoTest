@@ -7,10 +7,15 @@
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/chapter6/pom.xml" />
         <option value="$PROJECT_DIR$/chapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_321" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+    <output url="file://$PROJECT_DIR$/chapter11/out" />
   </component>
 </project>
